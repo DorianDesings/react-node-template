@@ -4,6 +4,7 @@ const App = () => {
 	return (
 		<>
 			<GlobalStyles />
+			<h1>REACT OK</h1>
 		</>
 	);
 };
